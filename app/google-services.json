@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43513571604",
+    "firebase_url": "https://loginkotlin-13429.firebaseio.com",
+    "project_id": "loginkotlin-13429",
+    "storage_bucket": "loginkotlin-13429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43513571604:android:e7485c825e381f68",
+        "android_client_info": {
+          "package_name": "com.fauzify.firebaseloginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43513571604-n291hsagp63i0ios2nh6sra6bbf5fl0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fauzify.firebaseloginkotlin",
+            "certificate_hash": "7127e77cda6240221938b189ce199f59269f6e66"
+          }
+        },
+        {
+          "client_id": "43513571604-offb75qs719ig6vt5iqal6beov4kq3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcP7_Va4Qbtt8kPO9G6G9VpdMX5a1KTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43513571604-offb75qs719ig6vt5iqal6beov4kq3b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
